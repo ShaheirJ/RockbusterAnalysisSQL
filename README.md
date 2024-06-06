@@ -5,15 +5,11 @@ This project tackles the challenge of Rockbuster Stealth LLC, a traditional movi
 
 Key Questions:
 
-Which movies generate the most revenue for Rockbuster?
-
-How long do customers typically rent videos?
-
-Who are Rockbuster's core customers? (Demographics)
-
-Where are Rockbuster's most valuable customers located?
-
-How do sales figures differ across geographic regions?
+- Which movies generate the most revenue for Rockbuster?
+- How long do customers typically rent videos?
+- Who are Rockbuster's core customers? (Demographics)
+- Where are Rockbuster's most valuable customers located?
+- How do sales figures differ across geographic regions?
 
 
 Context:
