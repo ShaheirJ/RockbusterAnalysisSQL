@@ -1,0 +1,16 @@
+# Using join, the query below is to identify the top 10 cities that fall within the top 10 countries in terms of customer numbers
+
+SELECT A.customer_id,
+              A.first_name,
+	    A.last_name,
+              C.city,
+             D.country,
+             SUM(B.amount) AS total_amount_paid
+FROM customer A
+JOIN payment B ON A.customer_id=B.customer_id
+JOIN address E ON A.address_id=E.address_id
+JOIN city C ON E.city_id=C.city_id
+JOIN country D ON C.country_id=D.country_id
+GROUP BY A.customer_id, A.first_name, A. last_name, D.country, C.city
+ORDER BY total_amount_paid DESC
+LIMIT 10
