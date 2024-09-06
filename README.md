@@ -1,5 +1,5 @@
 # RockbusterAnalysisSQL
-Rockbuster Stealth is a move rental company that used to have stores around the world. Using SQL, some key questions listed below are analyzed for their online launch strategy. This includes finding the most and least popular movies, understanding how long customers typically rent movies, visualizing customer locations, identifying areas with high-spending customers, and comparing sales figures across different regions.
+Rockbuster Stealth is a movie rental company that used to have stores around the world. Using SQL, some key questions listed below are analyzed for their online launch strategy. This includes finding the most and least popular movies, understanding how long customers typically rent movies, visualizing customer locations, identifying areas with high-spending customers, and comparing sales figures across different regions.
 # Rockbuster Stealth LLC Data Analysis Project
 This project tackles the challenge of Rockbuster Stealth LLC, a traditional movie rental company, entering the online video rental market dominated by streaming giants. My role is to lead the data strategy for this launch, leveraging SQL to analyze key metrics and guide Rockbuster's 2020 strategy.
 
