@@ -20,5 +20,5 @@ Project Deliverables:
 
 Check out the interactive [visualizations](https://public.tableau.com/views/3_10RockbusterPresentation_17147410265380/Top10Films?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) on Tableau.
 
-View the detailed [report](https://github.com/ShaheirJ/RockbusterAnalysisSQL/blob/main/Rockbuster%20Data%20Report.pdf) with further data insights with actionable business recommendations.
+View the detailed [report](https://github.com/ShaheirJ/RockbusterAnalysisSQL/blob/main/RockbusterDataReport.pdf) with further data insights with actionable business recommendations.
 
